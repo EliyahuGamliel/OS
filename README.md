@@ -1,2 +1,2 @@
-# os
+# Operating Systems
 my first project:)
